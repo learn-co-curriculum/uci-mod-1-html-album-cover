@@ -1,8 +1,10 @@
 # HTML Album Cover
 
-<img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
+## Learning Goals
 
-## Problem Statement
+- Use header, paragraph, image and span tags
+
+## Introduction
 
 Learning all the individual pieces that make up a web page is a necessary first
 step in the process of learning HTML, but one of the best ways to solidify the
@@ -10,15 +12,15 @@ concepts we've learned is to apply concepts together. In this lab, your task
 will be to update `index.html` based on commented notes in the file, using what
 we've learned about text formatting and displaying images.
 
-## Objectives
+<img src="https://after-school-assets.s3.amazonaws.com/happy.gif" width="300px" hspace="10">
 
-1. Practice applying header, paragraph, image and span tags
+## Use Header, Paragraph, Image and Span tags
 
-## The Mock Up
-
-Pharrell isn't quite happy, he needs some help coding the album cover for his
-hit song "Happy." His dev chops aren't quite as skilled as yours, so he's hired
+Pharrell isn't quite happy. He needs some help coding the album cover for his
+hit song "Happy." His dev skills aren't as strong as yours, so he's hired
 you to take care of business.
+
+### The Mock Up
 
 Pharrell did provide us with a mock up of what he would like to see for the
 design of the album cover:
@@ -60,8 +62,6 @@ To run the tests, hit `ctrl`+`C` to stop the server, then run `learn` to make
 sure you've met all the deliverables and passed the tests. When you're finished,
 run `learn submit` to submit your work.
 
----
-
 ## Conclusion
 
 A lot of the formatting in this lab is done using CSS, or Cascading Style
@@ -74,8 +74,5 @@ headers, image, and paragraphs. Completing this lab means that you have a solid
 foundation that we can build upon as we continue to learn about web development.
 
 _Clap along if you feel_ you're getting the hang of HTML!
-
-<p data-visibility='hidden'>View <a href='https://learn.co/lessons/html-album-cover' title='HTML Album Cover'>HTML Album Cover</a> on Learn.co and start learning to code for free.</p>
-
 
 [read up on some reference material]: https://www.w3schools.com/tags/tag_span.asp
